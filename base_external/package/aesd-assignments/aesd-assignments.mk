@@ -6,7 +6,13 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_ASSIGNMENTS_VERSION = 27e894cf299d389855c387d0faf7af0f99506ce7
+
+#hash for the tag before adding the makefile "all target"
+#AESD_ASSIGNMENTS_VERSION = 27e894cf299d389855c387d0faf7af0f99506ce7
+
+#hash after adding the all target to the makefile with the variables
+AESD_ASSIGNMENTS_VERSION = a8a563a6652996b5a7d956cb876c823df103ec6d
+
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
